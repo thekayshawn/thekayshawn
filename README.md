@@ -1,6 +1,6 @@
 I’m a Full Stack Developer who's made beautiful websites for notable agencies and startups, right now I'm working independantly on [Upwork](https://www.upwork.com/freelancers/thekayshawn).
 
-Landing pages, Portals, APIs, CMS, DB, Pipelines, Docker, I know them all.
+Landing pages, Portals, APIs, CMS, DB, Pipelines, Docker—I got you covered.
 
 Inquiries are always welcome at [kashanahmad.me@gmail.com](mailto:kashanahmad.me@gmail.com). Alternatively, you can schedule a direct chit-chat using my [calendar](https://calendly.com/thekayshawn).
 
