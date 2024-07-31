@@ -1,4 +1,4 @@
-I’m a Full Stack Developer who's made beautiful websites for notable agencies and startups, right now I'm working independantly on [Upwork](https://www.upwork.com/freelancers/thekayshawn).
+I’m a Full Stack Developer who makes beautiful websites for notable agencies and startups, right now I'm working independantly with [Upwork](https://www.upwork.com/freelancers/thekayshawn).
 
 Landing pages, Portals, APIs, CMS, DB, Pipelines, Docker—I got you covered.
 
